@@ -33,7 +33,10 @@
             <div class="content">
                 <div class="title m-b-md">
                     <h1>estefan cambio para git</h1>
-                <button type="button" class="btn btn-raised btn-danger">otra version git</button>
+                <button type="button" class="btn btn-raised btn-danger">otra version git</button
+                >
+                <button type="button" class="btn btn-raised btn-danger">este boton es de la rama test</button
+                >
                 </div>
 
 
