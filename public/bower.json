@@ -1,0 +1,21 @@
+{
+  "name": "easyplace",
+  "authors": [
+    "Bryan Estefan Moreno Diaz <estefandx1991@gmail.com>"
+  ],
+  "description": "paqeutes dle proyecto",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "boostrap#^3.3.7",
+    "angular": "angular2#^1.6.2"
+  }
+}
